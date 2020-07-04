@@ -16,3 +16,13 @@
  #### creacion del fork 
  para crear un fork debes ini iar sesion e en github y luego ingresar a ala landin page de el proyecto al proyecto ala quieras sacar tu fork 
  
+ ## como  trabajar con dos o mas  remotos
+ listar remotos
+ 'git remote -v'
+
+ agregar remotos
+ 'git remote add icasoft [nombre del remoto a agregar]'
+ eliminar remotos
+ 'git remote remove icasoft'
+
+ 
