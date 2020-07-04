@@ -12,4 +12,7 @@
  5 llenar datos
 
  6 elegit plan y llenar datos
+
+ #### creacion del fork 
+ para crear un fork debes ini iar sesion e en github y luego ingresar a ala landin page de el proyecto al proyecto ala quieras sacar tu fork 
  
