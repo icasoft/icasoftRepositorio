@@ -25,4 +25,9 @@
  eliminar remotos
  'git remote remove icasoft'
 
+ # crear etiquetas
+ es necesario entender que las etiquetas  ( o releases)
+ sean creadas a partir de la rama  master como buena practica
  
+ para entender como llamar o categorizar a tus versiones 
+  te recomendamos  en articulo https://ed.team/blog/como-se-deciden-las-versiones-del-software
